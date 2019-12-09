@@ -1,0 +1,9 @@
+10 REM While loop
+20 A = 1
+25 PRINT A
+30 IF A = 10 GOTO 40
+32 A = A+1
+34 PRINT A
+35 GOTO 30
+40 PRINT "that's a 10"
+50 END
